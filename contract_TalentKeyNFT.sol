@@ -10,7 +10,7 @@ import "@openzeppelin/contracts/utils/Counters.sol";
 contract TalentKey is ERC721, ERC721Enumerable, ERC721URIStorage {
     uint256 private _nextTokenId;
     using Counters for Counters.Counter;
-    Counters.Counter private _tokenIdCounter;
+    Counters.Counter private _tokenIdCounter; 
     uint256 MAX_SUPPLY = 100000;
 
     constructor() ERC721("Talent Key", "TKEY"){}

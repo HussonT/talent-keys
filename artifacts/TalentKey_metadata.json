@@ -882,11 +882,11 @@
 			]
 		},
 		"contract_TalentKeyNFT.sol": {
-			"keccak256": "0xf8c5e0a35086ec42dc1620fd4d16af9f058cbfd9f86cfd97ed8f1cae9e89fb5e",
+			"keccak256": "0x417682104fa82bab19ffa2ef8243fbedd97b5a23dc5074e3e22730cfceda475a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://61cb4a63a30d1652917f8422e98671b56057257d910d4897539ceac37acb05d4",
-				"dweb:/ipfs/QmUxaSBP1YSxVf4U7towuhuNKockLYUSY9Pajh9xyPbQbY"
+				"bzz-raw://c57c648fda4a77abf780b6f1f0043d0b4a423a68a8eab2bd415d1082bd16b20e",
+				"dweb:/ipfs/QmXq4UoDehEoyMcoeRkFDw7ZXrbyQn4oRzsauUbForVbBa"
 			]
 		}
 	},
